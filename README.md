@@ -1,2 +1,2 @@
 # Google-Dorking
-Kumpulan Dork
+Kumpulan Dork guna pentest
